@@ -1,3 +1,19 @@
 page-hello-ionic {
+  .palabra-adivinada-por-ahora {
+    font-size: 30px;
+    letter-spacing: 10px;
+    text-align: center;
+  }
 
+  .letra-pulsada-acertada {
+    background-color: lightgreen;
+  }
+
+  .letra-pulsada-no-acertada {
+    background-color: lightcoral;
+  }
+
+  .letra-sin-pulsar {
+    background-color: white;
+  }
 }
